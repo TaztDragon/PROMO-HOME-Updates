@@ -1,20 +1,20 @@
 {
-  "build": 6,
+  "build": 8,
   "version": "0.3.1",
   "channel": "stable",
   "app": "PROMO HOME",
   "platforms": {
     "android": {
-      "filename": "PROMO_HOME_0.3.1_build6.apk",
-      "url": "https://github.com/TaztDragon/PROMO-HOME-Updates/releases/download/v0.3.1-build6/PROMO_HOME_0.3.1_build6.apk",
-      "sha256": "aa24b6330a5650a955e861b32b236cd2e56bd307590951baca737e186ced23be"
+      "filename": "PROMO_HOME_0.3.1_build8.apk",
+      "url": "https://github.com/TaztDragon/PROMO-HOME-Updates/releases/download/v0.3.1-build8/PROMO_HOME_0.3.1_build8.apk",
+      "sha256": "ef2478be2ce599729ee6e177d88d1e1ead7a0c2a33ce710cc1df443c4a12d4cc"
     },
     "windows": {
-      "filename": "PROMO_HOME_0.3.1_build6.zip",
-      "url": "https://github.com/TaztDragon/PROMO-HOME-Updates/releases/download/v0.3.1-build6/PROMO_HOME_0.3.1_build6.zip",
-      "sha256": "41ea04c4655a321b80d8b5d309015cfad5d14a93a0f77960447b0cb93602bd25"
+      "filename": "PROMO_HOME_0.3.1_build8.zip",
+      "url": "https://github.com/TaztDragon/PROMO-HOME-Updates/releases/download/v0.3.1-build8/PROMO_HOME_0.3.1_build8.zip",
+      "sha256": "0ec7b0a2b2046c228580ab8d7d33c5402cef11298bb0fa00d5524e7ca714bd10"
     }
   },
   "notes": "Layout Android responsivo e OTA ativo para Android/Windows.",
-  "published_at": "2026-10-07T22:52:12-03:00"
+  "published_at": "2026-10-07T23:11:48-03:00"
 }
