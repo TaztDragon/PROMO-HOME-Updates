@@ -1,20 +1,20 @@
 {
-  "build": 4,
-  "version": "0.3.0",
+  "build": 6,
+  "version": "0.3.1",
   "channel": "stable",
   "app": "PROMO HOME",
   "platforms": {
     "android": {
-      "filename": "PROMO_HOME_0.3.0_build4.apk",
-      "url": "https://github.com/TaztDragon/PROMO-HOME-Updates/releases/download/v0.3.0-build4/PROMO_HOME_0.3.0_build4.apk",
-      "sha256": "3120d6d36d49b23967987b3ef38b5aad9141b3a1a8c6a9a8184f027ba6067458"
+      "filename": "PROMO_HOME_0.3.1_build6.apk",
+      "url": "https://github.com/TaztDragon/PROMO-HOME-Updates/releases/download/v0.3.1-build6/PROMO_HOME_0.3.1_build6.apk",
+      "sha256": "aa24b6330a5650a955e861b32b236cd2e56bd307590951baca737e186ced23be"
     },
     "windows": {
-      "filename": "PROMO_HOME_0.3.0_build4.zip",
-      "url": "https://github.com/TaztDragon/PROMO-HOME-Updates/releases/download/v0.3.0-build4/PROMO_HOME_0.3.0_build4.zip",
-      "sha256": "2b8e8fabdc6745e02a2749b0cc604f9f9ac7b6a8cc25a1b7ac4cb4c929bd616d"
+      "filename": "PROMO_HOME_0.3.1_build6.zip",
+      "url": "https://github.com/TaztDragon/PROMO-HOME-Updates/releases/download/v0.3.1-build6/PROMO_HOME_0.3.1_build6.zip",
+      "sha256": "41ea04c4655a321b80d8b5d309015cfad5d14a93a0f77960447b0cb93602bd25"
     }
   },
-  "notes": "PRUMO IA acionável, panfletos com conferência e OTA.",
-  "published_at": "2026-10-07T22:40:57-03:00"
+  "notes": "Layout Android responsivo e OTA ativo para Android/Windows.",
+  "published_at": "2026-10-07T22:52:12-03:00"
 }
