@@ -1,0 +1,20 @@
+{
+  "build": 4,
+  "version": "0.3.0",
+  "channel": "stable",
+  "app": "PROMO HOME",
+  "platforms": {
+    "android": {
+      "filename": "PROMO_HOME_0.3.0_build4.apk",
+      "url": "https://github.com/TaztDragon/PROMO-HOME-Updates/releases/download/v0.3.0-build4/PROMO_HOME_0.3.0_build4.apk",
+      "sha256": "3120d6d36d49b23967987b3ef38b5aad9141b3a1a8c6a9a8184f027ba6067458"
+    },
+    "windows": {
+      "filename": "PROMO_HOME_0.3.0_build4.zip",
+      "url": "https://github.com/TaztDragon/PROMO-HOME-Updates/releases/download/v0.3.0-build4/PROMO_HOME_0.3.0_build4.zip",
+      "sha256": "2b8e8fabdc6745e02a2749b0cc604f9f9ac7b6a8cc25a1b7ac4cb4c929bd616d"
+    }
+  },
+  "notes": "PRUMO IA acionável, panfletos com conferência e OTA.",
+  "published_at": "2026-10-07T22:22:25-03:00"
+}
